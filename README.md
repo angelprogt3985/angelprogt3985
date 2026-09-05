@@ -1,72 +1,47 @@
-# Hi there 👋, I'm Angel Camargo
+<!--
+████████████████████████████████████████████████████████████████
+                    SURVEY CORPS DATABASE
+                         ANGEL CAMARGO
+████████████████████████████████████████████████████████████████
+-->
 
-### 💻 Systems Engineering Student | Software & Cloud Enthusiast
+<div align="center">
 
-I'm a Systems Engineering student passionate about software development, cloud technologies, and learning how things work under the hood.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2b2b2b,100:8b0000&height=220&section=header&text=ANGEL%20CAMARGO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Software%20%7C%20Cloud&descAlignY=55&descSize=18" width="100%"/>
 
-I enjoy building projects, experimenting with new technologies, and continuously improving my programming skills.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=⚔️+JOIN+THE+SURVEY+CORPS;💻+SYSTEMS+ENGINEERING+STUDENT;☁️+EXPLORING+THE+CLOUD;⚙️+BUILDING+%26+LEARNING;🔥+KEEP+MOVING+FORWARD" />
 
-## 🚀 About Me
+<br>
 
-- 🎓 Systems Engineering student
-- 💻 Interested in Software Development and Cloud Computing
-- ☁️ Currently learning and working with Google Cloud
-- 🔧 Experience with web development, backend systems and low-level programming
-- 🧠 Always learning something new
-- 🎯 Interested in building practical and useful projects
+[![GitHub](https://img.shields.io/badge/GitHub-angelprogt3985-181717?style=for-the-badge&logo=github)](https://github.com/angelprogt3985)
 
----
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Other
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+</div>
 
 ---
 
-## 📚 Currently Learning
+# ⚔️ SURVEY CORPS — PERSONNEL FILE
 
-- ☁️ Google Cloud Platform
-- 🐳 Cloud & containerized applications
-- 🔌 Backend and API development
-- ⚙️ Microprocessors and low-level programming
-- 🌐 Modern web development
+> **"The world outside the Walls is unknown.  
+> So we explore."**
 
----
+Hi! I'm **Angel Camargo**, a Systems Engineering student passionate about technology, software development and cloud computing.
 
-## 📊 GitHub Stats
+I enjoy building projects, experimenting with different technologies and learning how systems work — from high-level applications to low-level programming.
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelprogt3985&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-
----
-
-> "Always learning, always building." 🚀
+```text
+╔══════════════════════════════════════════════════════════╗
+║                 🏛️ SURVEY CORPS DATABASE                ║
+╠══════════════════════════════════════════════════════════╣
+║                                                        ║
+║  👤 Name:        Angel Camargo                         ║
+║  🎓 Division:    Systems Engineering                   ║
+║  💻 Role:        Developer / Student                   ║
+║  ☁️ Specialty:   Cloud & Software                      ║
+║  ⚙️ Interests:   Backend • Web • Systems              ║
+║                                                        ║
+║  STATUS:         ACTIVE                                 ║
+║  EXPEDITION:     IN PROGRESS                            ║
+║                                                        ║
+╚══════════════════════════════════════════════════════════╝

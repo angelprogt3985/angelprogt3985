@@ -1,47 +1,55 @@
-<!--
-████████████████████████████████████████████████████████████████
-                    SURVEY CORPS DATABASE
-                         ANGEL CAMARGO
-████████████████████████████████████████████████████████████████
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2b2b2b,100:8b0000&height=220&section=header&text=ANGEL%20CAMARGO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Software%20%7C%20Cloud&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ANGEL%20CAMARGO&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=LEGIÓN%20DE%20RECONOCIMIENTO%20%7C%20INGENIERÍA%20EN%20SISTEMAS&descSize=18&descAlignY=55&animation=fadeIn&color=0:111111,50:262626,100:8B0000" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=⚔️+JOIN+THE+SURVEY+CORPS;💻+SYSTEMS+ENGINEERING+STUDENT;☁️+EXPLORING+THE+CLOUD;⚙️+BUILDING+%26+LEARNING;🔥+KEEP+MOVING+FORWARD" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=⚔️+EXPEDIENTE+DE+LA+LEGIÓN+DE+RECONOCIMIENTO;💻+ESTUDIANTE+DE+INGENIERÍA+EN+SISTEMAS;☁️+EXPLORANDO+EL+MUNDO+DEL+CLOUD;⚙️+CONSTRUYENDO+Y+APRENDIENDO;🔥+AVANZANDO+MÁS+ALLÁ+DE+LAS+MURALLAS" />
 
-<br>
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-angelprogt3985-181717?style=for-the-badge&logo=github)](https://github.com/angelprogt3985)
+![GitHub followers](https://img.shields.io/github/followers/angelprogt3985?style=for-the-badge&logo=github&label=SEGUIDORES&color=8B0000)
+
+![Profile Views](https://komarev.com/ghpvc/?username=angelprogt3985&style=for-the-badge&color=8B0000&label=VISITAS)
 
 </div>
 
 ---
 
-# ⚔️ SURVEY CORPS — PERSONNEL FILE
+# 🏰 EXPEDIENTE DEL SOLDADO
 
-> **"The world outside the Walls is unknown.  
-> So we explore."**
+> **"Si no luchamos, no podemos ganar."**
 
-Hi! I'm **Angel Camargo**, a Systems Engineering student passionate about technology, software development and cloud computing.
+### 👤 Angel Camargo
 
-I enjoy building projects, experimenting with different technologies and learning how systems work — from high-level applications to low-level programming.
+Soy estudiante de **Ingeniería en Sistemas**, apasionado por el desarrollo de software, la computación en la nube y la tecnología.
+
+Me gusta aprender mediante proyectos, experimentar con diferentes tecnologías y entender cómo funcionan los sistemas, desde aplicaciones web hasta programación de bajo nivel.
+
+Actualmente estoy construyendo mi experiencia a través de proyectos universitarios, experimentos personales y diferentes tecnologías de desarrollo.
+
+---
+
+# ⚔️ INFORMACIÓN DE LA LEGIÓN
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                 🏛️ SURVEY CORPS DATABASE                ║
+║                  EXPEDIENTE DE PERSONAL                 ║
 ╠══════════════════════════════════════════════════════════╣
-║                                                        ║
-║  👤 Name:        Angel Camargo                         ║
-║  🎓 Division:    Systems Engineering                   ║
-║  💻 Role:        Developer / Student                   ║
-║  ☁️ Specialty:   Cloud & Software                      ║
-║  ⚙️ Interests:   Backend • Web • Systems              ║
-║                                                        ║
-║  STATUS:         ACTIVE                                 ║
-║  EXPEDITION:     IN PROGRESS                            ║
-║                                                        ║
+║                                                          ║
+║  NOMBRE       : Angel Camargo                            ║
+║  DIVISIÓN     : Ingeniería en Sistemas                   ║
+║  ESPECIALIDAD : Desarrollo de Software                   ║
+║  ESTADO       : ACTIVO                                   ║
+║                                                          ║
+║  ESPECIALIDADES                                          ║
+║  ├── 💻 Desarrollo de Software                           ║
+║  ├── ☁️  Computación en la Nube                          ║
+║  ├── 🌐 Desarrollo Web                                   ║
+║  ├── ⚙️  Sistemas y Microprocesadores                    ║
+║  └── 🔧 Backend y APIs                                  ║
+║                                                          ║
+║  MISIÓN ACTUAL                                           ║
+║  └── Seguir aprendiendo y construir nuevos proyectos    ║
+║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
